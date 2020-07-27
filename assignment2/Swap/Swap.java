@@ -26,7 +26,7 @@ class SecNum {
 
 public class Swap {
 
-    public swap(firstNum obj1, secNum obj2) {
+    public Swap(firstNum obj1, secNum obj2) {
         int temp;
 
         temp      = obj2.num2;
