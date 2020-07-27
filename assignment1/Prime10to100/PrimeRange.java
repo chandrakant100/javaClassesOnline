@@ -1,4 +1,4 @@
-class primeRange {
+public class PrimeRange {
     public static void main(String[] args) {
 
         int initial = 10, finale = 100;

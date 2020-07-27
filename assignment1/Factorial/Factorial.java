@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class factorial {
+public class Factorial {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -14,6 +14,7 @@ class factorial {
             result = result * i;
 
         System.out.println("Factorial of " + num + " = " + result);
+        
         input.close();
     }
 }

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class gcdLCM {
+public class GcdLcm {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

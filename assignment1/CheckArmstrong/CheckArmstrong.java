@@ -1,4 +1,4 @@
-class checkArmstrong {
+public class CheckArmstrong {
     public static void main(String[] args) {
 
         int initial = 10, finale  = 100;
